@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <!-- Cercles concentriques -->
+  <g fill="none" stroke="#E1F5FE">
+    <circle cx="200" cy="200" r="180" fill="#29B6F6"/>
+    <path d="M200,200 m-160,0 a160,160 0 1,0 320,0 a160,160 0 1,0 -320,0" fill="#4FC3F7"/>
+    <path d="M200,200 m-140,0 a140,140 0 1,0 280,0 a140,140 0 1,0 -280,0" fill="#81D4FA"/>
+    <path d="M200,200 m-120,0 a120,120 0 1,0 240,0 a120,120 0 1,0 -240,0" fill="#B3E5FC"/>
+    <path d="M200,200 m-100,0 a100,100 0 1,0 200,0 a100,100 0 1,0 -200,0" fill="#E1F5FE"/>
+  </g>
+  
+  <!-- Nuages -->
+  <path d="M280 140 Q300 130 320 140 Q340 150 330 170 Q320 180 300 175 Q280 170 280 140" fill="white"/>
+  <path d="M220 120 Q240 110 260 120 Q280 130 270 150 Q260 160 240 155 Q220 150 220 120" fill="white"/>
+  
+  <!-- Points décoratifs -->
+  <circle cx="250" cy="130" r="4" fill="white"/>
+  <circle cx="270" cy="150" r="3" fill="white"/>
+  <circle cx="290" cy="140" r="5" fill="white"/>
+  
+  <!-- Feuilles -->
+  <path d="M160 160 Q180 140 200 160 Q190 180 170 170 Z" fill="#4CAF50"/>
+  <path d="M220 180 Q240 160 260 180 Q250 200 230 190 Z" fill="#4CAF50"/>
+  
+  <!-- Points en bas -->
+  <circle cx="340" cy="340" r="8" fill="#29B6F6"/>
+  <circle cx="360" cy="360" r="6" fill="#29B6F6"/>
+  <circle cx="380" cy="380" r="4" fill="#29B6F6"/>
+</svg>
